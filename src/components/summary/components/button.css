@@ -1,0 +1,17 @@
+.custom-button {
+  padding: 2px 10px;
+  border: none;
+  border-radius: 30px;
+  background-color: #E6E6E6;
+  color: #808080;
+  cursor: pointer;
+  outline: none;
+  height: 25px;
+  margin: 5px 7px;
+}
+
+.custom-button.selected {
+  background-color: #146eb4;
+  color: white;
+}
+

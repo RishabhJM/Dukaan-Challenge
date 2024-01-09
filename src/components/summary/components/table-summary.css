@@ -1,0 +1,14 @@
+.table-summary-box{
+    background-color: #FAFAFA;
+    padding: 15px 20px;
+}
+.summary-box-title{
+    font-weight: 800;
+    font-size: 20px;
+}
+.btn-box{
+    display: flex;
+}
+
+
+

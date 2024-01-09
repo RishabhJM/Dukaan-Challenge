@@ -1,0 +1,38 @@
+.store-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 80%;
+}
+
+.dropdown-btn{
+    background-color: #1E2640;
+    border: none;
+}
+.dropdown-btn img{
+    width: 20px;
+    height: 20px;
+}
+.store-info img{
+    height:35px;
+    width: 35px;
+    border-radius: 2px;
+}
+
+.store-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.store-name a{
+    color: white;
+    text-decoration: underline;
+    font-weight: 200;
+    font-size: 10px;
+}
+
+.store-name{
+    padding: 10px;
+    
+}

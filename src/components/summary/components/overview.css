@@ -1,0 +1,29 @@
+.overview-title{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.overview-box{
+    background-color: #FAFAFA;
+}
+
+.overview-title span{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.summary-components{
+    display: flex; 
+    padding: 0 15px;
+}
+
+#time-range-dropdown{
+    padding: 5px;
+    color: #4D4D4D;
+    font-family: Inter;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

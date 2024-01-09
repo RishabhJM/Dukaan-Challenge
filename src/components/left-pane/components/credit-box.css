@@ -1,0 +1,20 @@
+.credit-box{
+    background-color: #353C53;
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin:20px;
+}
+
+.credit-info{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.no-of-credits-text{
+    font-size: 15px;
+    font-weight: bold;
+}
